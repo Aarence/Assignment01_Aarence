@@ -62,11 +62,11 @@ ii.for mobile view, a hamburger menu icon(three horizontal lines/3 dot) that use
 
 # Credits
 Media
-The photos usedd in this site were obtained from
-https://www.lego.com/en-sg
-https://www.toysrus.com.sg
+The photos used in this site were obtained from:
+1. https://www.lego.com/en-sg
+2. https://www.toysrus.com.sg
 
-Acknowledgements
-https://www.lego.com/en-sg
-https://www.toysrus.com.sg
-https://www.bricksworld.com/
+Acknowledgements:
+1. https://www.lego.com/en-sg
+2. https://www.toysrus.com.sg
+3. https://www.bricksworld.com/
