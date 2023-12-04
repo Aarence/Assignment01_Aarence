@@ -14,14 +14,16 @@ As a gift-giver, I want recommendations for popular and trending toys, so that I
 # Feature
 
 Existing Features
-interactive Google map to find store location
-Working Contact us Form that can submit
-Working responsive design for mobile home page like menu/navigation bar
+-interactive Google map to find store location
+-Working Contact us Form that can submit
+-Working responsive design for mobile home page like menu/navigation bar
+-feature and product have shadow box when hovered
+-when on a specific page, navigation bar changes color and have a underline indicating which page you are on
+-nav bar is highlighted & underline when hovered over with a 0.3 sec transition
 
 Features left to implement
 responsive design for shop & contact us page
 Search option
-Shopping Cart
 Wishlist
 Checkout page
 
