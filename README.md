@@ -22,7 +22,6 @@ Existing Features
 -nav bar is highlighted & underline when hovered over with a 0.3 sec transition
 
 Features left to implement
-responsive design for shop & contact us page
 Search option
 Wishlist
 Checkout page
