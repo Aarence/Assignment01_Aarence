@@ -1,8 +1,8 @@
-#ToyTopia
+# ToyTopia
 
 Toytopia is a brand-new toy shop. We offer a wide range of the latest and most popular toys. from classic favourites to cutting-edge innovations.
 
-#Design Process
+# Design Process
 
 The website is for the toy shop caters to multiple user groups: parents, toy enthusiasts, educator and gift-giver user. Each group has distinct goals, which the website should address to ensure a positive user experience
 
@@ -11,7 +11,7 @@ As a toy enthusiast, I want to explore a variety of unique and innovative toys, 
 As an educator, I want access to educational toys and resources that support learning and development, so that I can enhance my teaching curriculum.
 As a gift-giver, I want recommendations for popular and trending toys, so that I can choose the perfect gift for a special occasion.
 
-#Feature
+# Feature
 
 Existing Features
 interactive Google map to find store location
@@ -25,17 +25,17 @@ Shopping Cart
 Wishlist
 Checkout page
 
-#Technologies Used
+# Technologies Used
 
-HTML5: content of the webpage
+1. HTML5: content of the webpage
 
-CSS: style, design, appearance and responsiveness of my webpage
+2. CSS: style, design, appearance and responsiveness of my webpage
 
-JavaScript: use for my mobile dropdown/menu
+3. JavaScript: use for my mobile dropdown/menu
 
-google fonts: provide web fonts for better visual appeal
+4. google fonts: provide web fonts for better visual appeal
 
-#Testing
+# Testing
 Scenarios:
 
 1.Contact form:
@@ -60,7 +60,7 @@ i.Alot of try and error to find the correct padding, margin in order to get the 
 ii.for mobile view, a hamburger menu icon(three horizontal lines/3 dot) that users can click or tap to reveal the navigation menu.
 
 
-#Credits
+# Credits
 Media
 The photos usedd in this site were obtained from
 https://www.lego.com/en-sg
